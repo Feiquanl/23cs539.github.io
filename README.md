@@ -1,4 +1,4 @@
-# 23cs539.github.io
+# cs539project
 ## How to install and run 
 Go to the folder where you want to store your project, and clone the new repository:
 ```bash
